@@ -760,6 +760,9 @@ module.exports = {
 </details>
 
 Contact:
+
 email:ap7164772@gmail.com
+
 github:https://github.com/Aman7894
+
 linkedIn:https://linkedin.com/in/aman-pal-8493951b4
